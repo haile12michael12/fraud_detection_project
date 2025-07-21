@@ -1,0 +1,5 @@
+Data/*
+cleaned_data/*
+saved_models/*
+Notebook/mlruns/*
+venv/*
