@@ -170,21 +170,23 @@ Launching Flask API
 
 cd model_api
 python serve_model.py
+```
+---
 
-📊 Results and Insights
-Identified key drivers of fraud:
+##  📊 Results and Insights
+- Identified key drivers of fraud:
 
-Signup-purchase time gap
+- Signup-purchase time gap
 
-Device/browser usage
+- Device/browser usage
 
-Transaction timing (odd hours)
+- Transaction timing (odd hours)
 
-SHAP revealed model bias toward certain time and value patterns.
+- SHAP revealed model bias toward certain time and value patterns.
 
-Ensemble models outperformed logistic regression on both datasets.
+- Ensemble models outperformed logistic regression on both datasets.
 
-📜 License
-This project is open-source and available under the MIT License
+## 📜 License
+- This project is open-source and available under the MIT License
 
-Let me know if you’d like the `README.md` exported as a file or customized with your GitHub repo link, author profile, or badges!
+- Let me know if you’d like the `README.md` exported as a file or customized with your GitHub repo link, author profile, or badges!
