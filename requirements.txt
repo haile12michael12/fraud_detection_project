@@ -11,3 +11,4 @@ pandas
 datetime
 socket
 struct
+shap
